@@ -1,0 +1,6 @@
+echo echo HollaVictor > bin/lv
+bash bin/lv
+bin/lv
+chmod +x bin/lv
+lv
+HollaVictor
